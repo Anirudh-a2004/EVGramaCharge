@@ -161,7 +161,7 @@ EVGramaCharge/
 
 📱 Screenshots
 Home Screen
-![Home Screen.jpeg](../Users/ANIRUDH%20A/OneDrive/Desktop/New%20folder/Home%20Screen.jpeg)
+<img width="720" height="1600" alt="Home Screen" src="https://github.com/user-attachments/assets/1192689d-6f00-433d-9b32-45e571048604" />
 
 Map Screen
 ![MapScreen.jpeg](../Users/ANIRUDH%20A/OneDrive/Desktop/New%20folder/MapScreen.jpeg)
