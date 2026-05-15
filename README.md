@@ -161,16 +161,17 @@ EVGramaCharge/
 
 📱 Screenshots
 Home Screen
-<img width="400" height="800" alt="Home Screen" src="https://github.com/user-attachments/assets/1192689d-6f00-433d-9b32-45e571048604" />
+<img width="300" height="700" alt="Home Screen" src="https://github.com/user-attachments/assets/1192689d-6f00-433d-9b32-45e571048604" />
 
 Map Screen
-![MapScreen.jpeg](../Users/ANIRUDH%20A/OneDrive/Desktop/New%20folder/MapScreen.jpeg)
+<img width="300" height="700" alt="MapScreen" src="https://github.com/user-attachments/assets/e1d4e9af-9f8d-4c20-9037-d1ae2a0be55f" />
 
 Booking Screen
-![Booking Screen.jpeg](../Users/ANIRUDH%20A/OneDrive/Desktop/New%20folder/Booking%20Screen.jpeg)
+<img width="300" height="700" alt="Booking Screen" src="https://github.com/user-attachments/assets/41ce1d9c-83cc-44b8-b6c9-d4fb4aef8606" />
 
 Vendor Dashboard
-![Vendor Screen.jpeg](../Users/ANIRUDH%20A/OneDrive/Desktop/New%20folder/Vendor%20Screen.jpeg)
+<img width="300" height="700" alt="Vendor Screen" src="https://github.com/user-attachments/assets/8ba6f8d6-a574-4503-a7a6-3bcabd389a68" />
+
 
 
 🔄 Booking Synchronization
