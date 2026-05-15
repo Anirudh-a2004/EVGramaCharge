@@ -162,8 +162,12 @@ EVGramaCharge/
 📱 Screenshots
 
 
+
+
 Home Screen
 <img width="300" height="700" alt="Home Screen" src="https://github.com/user-attachments/assets/1192689d-6f00-433d-9b32-45e571048604" />
+
+
 
 
 
@@ -174,14 +178,20 @@ Map Screen
 
 
 
+
+
 Booking Screen
 <img width="300" height="700" alt="Booking Screen" src="https://github.com/user-attachments/assets/41ce1d9c-83cc-44b8-b6c9-d4fb4aef8606" />
 
 
 
 
+
+
 Vendor Dashboard
 <img width="300" height="700" alt="Vendor Screen" src="https://github.com/user-attachments/assets/8ba6f8d6-a574-4503-a7a6-3bcabd389a68" />
+
+
 
 
 
