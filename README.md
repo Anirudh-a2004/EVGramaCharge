@@ -82,24 +82,24 @@ System Architecture
 
 📂 Folder Structure
 
-EVGramaCharge/
-│
-├── app/
-│   ├── src/main/java/com/example/evgramacharge/
-│   │   ├── screens/
-│   │   ├── components/
-│   │   ├── ui/theme/
-│   │   ├── utils/
-│   │   ├── MainActivity.kt
-│   │   └── FirestoreStation.kt
-│   │
-│   ├── res/
-│   └── AndroidManifest.xml
-│
-├── gradle/
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
+    EVGramaCharge/
+    │
+    ├── app/
+    │   ├── src/main/java/com/example/evgramacharge/
+    │   │   ├── screens/
+    │   │   ├── components/
+    │   │   ├── ui/theme/
+    │   │   ├── utils/
+    │   │   ├── MainActivity.kt
+    │   │   └── FirestoreStation.kt
+    │   │
+    │   ├── res/
+    │   └── AndroidManifest.xml
+    │
+    ├── gradle/
+    ├── build.gradle.kts
+    ├── settings.gradle.kts
+    └── README.md
 
 ⚙️ Installation & Setup
 
