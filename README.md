@@ -261,10 +261,8 @@ Implemented validations include:
 
         Detail	            Information
         Developer	        Anirudh A
-        USN	                1SP22IC004
-        Role	            Android App Development using Gen AI Intern
-        Programme	        MindMatrix Industry Readiness Programme
-
+        Email               anirudhhfhs2017@gmail.com
+     
 🤝 Contribution Guidelines
 
         Contributions are welcome.
